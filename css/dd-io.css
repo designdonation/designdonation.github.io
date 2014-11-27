@@ -5,10 +5,12 @@
 */
 
 
-body{margin:0px; padding:0px;}
+body{margin:0px; padding:0px; color: #8db0cc;}
 
 h1,h2,h3 {font-family: 'Kameron', serif;}
 
+h1{font-size:24px}
+
 p,a {font-family: 'Arimo', sans-serif;}
 
-#main{text-align: center; margin:40px auto;}
+#main{text-align: center; margin:15% auto ;}
