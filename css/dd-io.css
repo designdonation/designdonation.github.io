@@ -1,2 +1,14 @@
+/*
+* CSS for Design Donation Open Theme
+* Author : Homer Gaines
+* URL : http://designdonation.github.io/
+*/
+
+
 body{margin:0px; padding:0px;}
-#logo{text-align: center; margin:40px auto;}
+
+h1,h2,h3 {font-family: 'Kameron', serif;}
+
+p,a {font-family: 'Arimo', sans-serif;}
+
+#main{text-align: center; margin:40px auto;}
