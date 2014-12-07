@@ -28,6 +28,7 @@ a {
 #main {
     min-height: 95vh;
     background-image: url('../imgs/diamond_upholstery.png');
+    background-position: center center;
     border: solid 20px #fff;
 }
 #content {
