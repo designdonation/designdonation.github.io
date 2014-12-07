@@ -4,16 +4,37 @@
 * URL : http://designdonation.github.io/
 */
 
-html, body{height:100%;}
-
-body{margin:0px; padding:0px; color: #8db0cc; }
-
-h1,h2,h3 {font-family: 'Kameron', serif;}
-
-h1{font-size:24px}
-
-p,a {font-family: 'Arimo', sans-serif;}
-
-#main{min-height: 95vh; background-image: url('../imgs/diamond_upholstery.png'); border: solid 20px #fff;}
-
-#content{min-width: 320px; text-align: center; margin: 50px auto 0px auto;}
+html,
+body {
+    height: 100%;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    color: #8db0cc;
+}
+h1,
+h2,
+h3 {
+    font-family: 'Kameron', serif;
+}
+h1 {
+    font-size: 24px
+}
+p,
+a {
+    font-family: 'Arimo', sans-serif;
+}
+#main {
+    min-height: 95vh;
+    background-image: url('../imgs/diamond_upholstery.png');
+    border: solid 20px #fff;
+}
+#content {
+    min-width: 320px;
+    text-align: center;
+    margin: 0px auto;
+    position: relative;
+    top:50%;
+    transform: translateY(100%);
+}
